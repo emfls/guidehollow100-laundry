@@ -9,5 +9,6 @@
   "url": "https://laundry.guidehollow.com/",
   "accent": "#8B659B",
   "launchReady": true,
-  "adsReady": false
+  "adsReady": false,
+  "coupangEnabled": true
 }
